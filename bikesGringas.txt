@@ -3,3 +3,4 @@ Scott
 Cannondale
 S-works
 Giant
+Swift
